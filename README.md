@@ -25,12 +25,14 @@ func GetProfile() Developer {
 ```
 
 ### Featured Projects
-- [Project Name](https://github.com/Renan-Portela/repo-name) - Brief description of the project.
-- [Project Name](https://github.com/Renan-Portela/repo-name) - Brief description of the project.
+- [CliniSync](https://github.com/Renan-Portela/Clinica-Medica) - A Java desktop system for comprehensive medical clinic management, featuring appointment scheduling, physician/patient CRUD operations, management reports, and a modern Swing interface. Developed for the 3rd semester of the ADS program.
+- [Dslist](https://github.com/Renan-Portela/dslist) - "Netflix for Gamers!" A REST API built with Java Spring Boot to organize game collections into themed lists. Developed during the DevSuperior workshop.
+- [Luvasul](https://github.com/Renan-Portela/Lavanderia-Industrial) - A core industrial laundry management system developed using PHP and MySQL.
+- [Monitoria-Java](https://github.com/Renan-Portela/java-monitoria) - Personal repository for my Java teaching assistant (TA) activities, containing exercises and academic support material.
 
 ### Contact
-- [LinkedIn](https://www.linkedin.com/in/renanportela/)
-- [Email](mailto:contact@renanportela.com)
+- [LinkedIn](https://br.linkedin.com/in/portela-renan)
+- [Email](mailto:renanportela@protonmail.com)
 
 ---
 
